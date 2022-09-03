@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Itsyuvaa
-- 👀 I’m interested in web development|ui/ux design
+- 👀 I’m interested in web development | UI/UX design
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me 
